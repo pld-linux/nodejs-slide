@@ -2,7 +2,7 @@
 Summary:	A flow control lib small enough to fit on in a slide presentation
 Name:		nodejs-%{pkg}
 Version:	1.1.5
-Release:	1
+Release:	2
 License:	ISC
 Group:		Development/Libraries
 URL:		https://github.com/isaacs/node-slide
